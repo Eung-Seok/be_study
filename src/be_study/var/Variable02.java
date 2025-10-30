@@ -3,7 +3,6 @@ package be_study.var;
 public class Variable02 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		//2진수. 8진수, 10진수, 16진수
 		
