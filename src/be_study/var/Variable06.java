@@ -2,7 +2,7 @@ package be_study.var;
 
 import java.util.Scanner;
 
-public class variable06 {
+public class Variable06 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

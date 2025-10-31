@@ -5,6 +5,7 @@ public class Variable03 {
 	public static void main(String[] args) {
 
 		//타입 변환
+		//자동 타입 변환 = 암묵적 타입 변환, 묵시적 타입 변환
 		
 		//int < double
 		

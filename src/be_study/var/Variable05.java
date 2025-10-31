@@ -2,7 +2,7 @@ package be_study.var;
 
 import  java.util.Scanner;
 
-public class variable05 {
+public class Variable05 {
 	
 	
 
