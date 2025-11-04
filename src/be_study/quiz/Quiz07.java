@@ -71,7 +71,7 @@ public class Quiz07 {
 			System.out.println("2");
 		} else if (diceNum == 3) {
 			System.out.println("3");
-			System.out.println("4");
+			System.out.println("4"); 
 			System.out.println("5");
 		} else if (diceNum == 4) {
 			System.out.println("4");
