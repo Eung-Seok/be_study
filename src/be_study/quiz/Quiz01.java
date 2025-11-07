@@ -41,6 +41,7 @@ public class Quiz01 {
 		/*8
 		 *  b. int
 		 */
+		
 	}
 
 }

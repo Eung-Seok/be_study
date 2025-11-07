@@ -88,7 +88,9 @@ public class Arr01 {
 		}
 		System.out.println(scoreArr.length);
 		
-		String[][][] school = new String[3][10][40]
+		String[][][] school = new String[3][10][40];
+		
 	}
 
+	
 }
