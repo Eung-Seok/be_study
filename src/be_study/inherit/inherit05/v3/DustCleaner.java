@@ -1,0 +1,15 @@
+package be_study.inherit.inherit05.v3;
+
+public class DustCleaner extends Cleaner{
+	
+	int money;
+
+	public void doClean() {
+		System.out.println("먼지털이");
+	}
+	
+	
+	public void arrangeItem() {
+		System.out.println("물건정리");
+	}
+}
